@@ -1,10 +1,10 @@
 export default function Hero() {
   return (
-    <section className="min-h-screen flex flex-col justify-center items-center text-center bg-blue-900 text-white px-6">
+    <section className="min-h-screen flex flex-col justify-center items-center text-center bg-zinc-900 text-white px-6">
       
       <h1 className="text-5xl md:text-7xl font-bold leading-tight">
-        Vinicius Dev
-        <span className="block text-blue-500">
+        Vinicius <span className="text-blue-900">Dev</span>
+        <span className="block text-blue-900">
           Desenvolvedor
         </span>
       </h1>

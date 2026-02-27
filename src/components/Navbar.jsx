@@ -8,13 +8,13 @@ export default function Navbar() {
 
         <nav className="hidden md:flex gap-8 text-sm text-zinc-300">
           <a href="#about" className="relative group text-white">Sobre
-            <span className="absolute left-0 bottom-0 w-0 h-[2px] bg-blue-500 transition-all duration-300 group-hover:w-full"></span>
+            <span className="absolute left-0 bottom-0 w-0 h-[2px] bg-blue-900 transition-all duration-300 group-hover:w-full"></span>
           </a>
           <a href="#projects" className="relative group text-white">Projetos
-            <span className="absolute left-0 bottom-0 w-0 h-[2px] bg-blue-500 transition-all duration-300 group-hover:w-full"></span>
+            <span className="absolute left-0 bottom-0 w-0 h-[2px] bg-blue-900 transition-all duration-300 group-hover:w-full"></span>
           </a>
           <a href="#contact" className="relative group text-white">Contatos
-            <span className="absolute left-0 bottom-0 w-0 h-[2px] bg-blue-500 transition-all duration-300 group-hover:w-full"></span>
+            <span className="absolute left-0 bottom-0 w-0 h-[2px] bg-blue-900 transition-all duration-300 group-hover:w-full"></span>
           </a>
         </nav>
       </div>

@@ -11,10 +11,11 @@ export default function AboutMe() {
                 <div className=" hover:-translate-y-2 hover:shadow-2xl hovershadow-blue-900 transition duration-300 bg-black pe-5 ps-5 py-15 rounded-2xl">
                     <h2 className="text-center text-2xl font-bold text-white mb-4">Sobre mim</h2>
                     <p className="text-justify text-white leading-relaxed mb-4">
-                        Sou desenvolvedor web apaixonado por criar interfaces modernas e
+                        Sou um desenvolvedor web apaixonado por tecnologia e por criar interfaces modernas e
                         responsivas. Trabalho principalmente com <span className="font-semibold">React</span> e
-                        estilização utilizando <span className="font-semibold">TailwindCSS</span>, buscando sempre
-                        entregar experiências rápidas, acessíveis e visualmente atraentes.
+                        estilização utilizando <span className="font-semibold">TailwindCSS</span>, mais tambem trabalho com outras linguagens de programação, buscando sempre
+                        entregar experiências rápidas, acessíveis e visualmente atraentes. E também criando sistemas intuitivos,
+                        para ajudar no processo do seu negócio.
                     </p>
                 </div>
 
