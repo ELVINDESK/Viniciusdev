@@ -15,36 +15,7 @@ export default  function Contato() {
         <h2 className="text-3xl font-bold text-center mb-8">
           Entre em Contato
         </h2>
-
-        <form className="flex flex-col gap-6">
-          
-          <input
-            type="text"
-            placeholder="Seu nome"
-            className="bg-white/10 p-3 rounded-lg outline-none focus:ring-2 focus:ring-cyan-400"
-          />
-
-          <input
-            type="email"
-            placeholder="Seu email"
-            className="bg-white/10 p-3 rounded-lg outline-none focus:ring-2 focus:ring-cyan-400"
-          />
-
-          <textarea
-            placeholder="Sua mensagem"
-            rows="4"
-            className="bg-white/10 p-3 rounded-lg outline-none focus:ring-2 focus:ring-cyan-400"
-          ></textarea>
-
-          <button
-            type="submit"
-            className="bg-cyan-500 hover:bg-cyan-600 transition p-3 rounded-lg font-semibold"
-          >
-            Enviar Mensagem
-          </button>
-
-        </form>
-
+        
         {/* Ícones sociais */}
         <div className="flex justify-center gap-6 mt-8 text-2xl">
           <FaEnvelope className="hover:text-cyan-400 transition cursor-pointer" />
